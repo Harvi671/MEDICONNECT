@@ -1,0 +1,32 @@
+[
+  {
+    "concurrent_users": 10,
+    "total_requests": 50,
+    "duration_seconds": 0.33,
+    "throughput_rps": 150.36,
+    "latency_mean_ms": 23.45,
+    "latency_p95_ms": 61.71,
+    "error_rate_pct": 0.0,
+    "errors": 0
+  },
+  {
+    "concurrent_users": 50,
+    "total_requests": 250,
+    "duration_seconds": 1.82,
+    "throughput_rps": 137.22,
+    "latency_mean_ms": 273.3,
+    "latency_p95_ms": 798.85,
+    "error_rate_pct": 0.0,
+    "errors": 0
+  },
+  {
+    "concurrent_users": 200,
+    "total_requests": 1000,
+    "duration_seconds": 9.42,
+    "throughput_rps": 106.15,
+    "latency_mean_ms": 1639.85,
+    "latency_p95_ms": 5646.25,
+    "error_rate_pct": 0.0,
+    "errors": 0
+  }
+]
